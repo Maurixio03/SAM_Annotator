@@ -144,4 +144,4 @@ This software is proprietary. The source code is protected.
 Este software es propietario. El código fuente está protegido.  
 Este software é proprietário. O código-fonte está protegido.
 
-© A. Mauricio Devia Santoya — Universidade de Brasília (UnB)
+© A. Mauricio Devia Santoya
