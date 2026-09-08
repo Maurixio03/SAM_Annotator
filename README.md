@@ -9,7 +9,7 @@
 
 ### ¿Qué es SAM Annotator?
 
-SAM Annotator es una aplicación web local para **anotación de imágenes y entrenamiento de modelos YOLO** de segmentación e instancias. Desarrollada para el Projeto Oculus / AuQuA en la Universidade de Brasília (UnB).
+SAM Annotator es una aplicación web local para **anotación de imágenes y entrenamiento de modelos YOLO** de segmentación e instancias. 
 
 **Características principales:**
 - Anotación asistida por IA con SAM 2.1 (Segment Anything Model)
@@ -62,7 +62,7 @@ SAM_Annotator/
 
 ### O que é o SAM Annotator?
 
-SAM Annotator é uma aplicação web local para **anotação de imagens e treinamento de modelos YOLO** de segmentação e detecção de instâncias. Desenvolvida para o Projeto Oculus / AuQuA na Universidade de Brasília (UnB).
+SAM Annotator é uma aplicação web local para **anotação de imagens e treinamento de modelos YOLO** de segmentação e detecção de instâncias. 
 
 **Principais funcionalidades:**
 - Anotação assistida por IA com SAM 2.1 (Segment Anything Model)
@@ -102,7 +102,7 @@ SAM Annotator é uma aplicação web local para **anotação de imagens e treina
 
 ### What is SAM Annotator?
 
-SAM Annotator is a local web application for **image annotation and YOLO model training** for instance segmentation and detection. Developed for the Projeto Oculus / AuQuA at the University of Brasília (UnB).
+SAM Annotator is a local web application for **image annotation and YOLO model training** for instance segmentation and detection. 
 
 **Key features:**
 - AI-assisted annotation with SAM 2.1 (Segment Anything Model)
