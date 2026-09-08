@@ -1,0 +1,43 @@
+# Entorno virtual / Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datos de usuario (no subir al repo)
+collab_data/users.json
+collab_data/projects.json
+collab_data/ngrok_config.json
+
+# Modelos pesados (se descargan en instalacion)
+models/*.pt
+models/*.pth
+
+# YOLO - modelos descargados automáticamente
+*.pt
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
+.env.local
+
+# Datasets (no subir imágenes al repo)
+DataSet/
+DataSet_Split/
+Modelos_Entrenados/
+
+# PyArmor runtime (se genera al ofuscar)
+pyarmor_runtime_*/
+
+# Carpeta de distribución local
+dist_github/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
