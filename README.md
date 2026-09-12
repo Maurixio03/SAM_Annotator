@@ -33,8 +33,8 @@ Ferramenta web completa para anotação de imagens com inteligência artificial 
 
 Acesse os links abaixo e baixe os dois arquivos:
 
-> 📦 **[SAM_Annotator_app.zip](https://drive.google.com/file/d/13ixv_v4jiJOQY1QppvYDMQng1_qxeRRk/view?usp=sharing)** (~4GB) — Aplicativo compilado
-> 📦 **[checkpoints.zip](https://drive.google.com/file/d/1uLbrkFhwMgj_cqNgjPJP1zeAtprE8tfb/view?usp=sharing)** (~534MB) — Modelos SAM
+> 📦 **[SAM_Annotator_app.zip](https://drive.google.com/file/d/1z3cjAZ4Wt-aSZIA50QLi7CwXkE6yttIc/view?usp=sharing)** (~4GB) — Aplicativo compilado
+> 📦 **[checkpoints.zip](https://drive.google.com/file/d/1HIUwQaxFn2S3bMdtLgcXbEW9_CbPSuQI/view?usp=sharing)** (~534MB) — Modelos SAM
 
 > ⚠️ **Atenção:** Não é necessário instalar Python, pip ou nenhuma dependência manualmente. Tudo já está incluído nos arquivos acima.
 
@@ -145,8 +145,8 @@ Herramienta web completa para anotación de imágenes con inteligencia artificia
 
 Accede a los links y descarga los dos archivos:
 
-> 📦 **[SAM_Annotator_app.zip](https://drive.google.com/file/d/13ixv_v4jiJOQY1QppvYDMQng1_qxeRRk/view?usp=sharing)** (~4GB) — Aplicación compilada
-> 📦 **[checkpoints.zip](https://drive.google.com/file/d/1uLbrkFhwMgj_cqNgjPJP1zeAtprE8tfb/view?usp=sharing)** (~534MB) — Modelos SAM
+> 📦 **[SAM_Annotator_app.zip](https://drive.google.com/file/d/1z3cjAZ4Wt-aSZIA50QLi7CwXkE6yttIc/view?usp=sharing)** (~4GB) — Aplicación compilada
+> 📦 **[checkpoints.zip](https://drive.google.com/file/d/1HIUwQaxFn2S3bMdtLgcXbEW9_CbPSuQI/view?usp=sharing)** (~534MB) — Modelos SAM
 
 > ⚠️ **Atención:** No es necesario instalar Python, pip ni ninguna dependencia manualmente. Todo ya está incluido en los archivos de arriba.
 
@@ -257,8 +257,8 @@ A complete web-based tool for AI-powered image annotation (SAM 2.1), YOLO model 
 
 Access the links and download both files:
 
-> 📦 **[SAM_Annotator_app.zip](https://drive.google.com/file/d/13ixv_v4jiJOQY1QppvYDMQng1_qxeRRk/view?usp=sharing)** (~4GB) — Compiled application
-> 📦 **[checkpoints.zip](https://drive.google.com/file/d/1uLbrkFhwMgj_cqNgjPJP1zeAtprE8tfb/view?usp=sharing)** (~534MB) — SAM models
+> 📦 **[SAM_Annotator_app.zip](https://drive.google.com/file/d/1z3cjAZ4Wt-aSZIA50QLi7CwXkE6yttIc/view?usp=sharing)** (~4GB) — Compiled application
+> 📦 **[checkpoints.zip](https://drive.google.com/file/d/1HIUwQaxFn2S3bMdtLgcXbEW9_CbPSuQI/view?usp=sharing)** (~534MB) — SAM models
 
 > ⚠️ **Note:** You do NOT need to install Python, pip, or any dependencies manually. Everything is already included in the files above.
 
